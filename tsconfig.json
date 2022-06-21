@@ -7,6 +7,8 @@
         "sourceMap": false,
         "isolatedModules": false,
         "typeRoots": ["node_modules/@types"],
-        "types": ["svelte", "chrome"]
-    }
+        "types": ["svelte", "chrome"],
+        "rootDir": "src"
+    },
+
 }

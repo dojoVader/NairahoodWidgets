@@ -11,8 +11,9 @@
     },
     "content_scripts": [
         {
-            "matches": ["https://nairaland.com/*"],
+            "matches": ["https://www.nairaland.com/", "https://www.nairaland.com/*"],
             "run_at":"document_end",
+            "css": ["build/content_script.css"],
             "js" : [ "build/content_script.js"]
         }
     ],
