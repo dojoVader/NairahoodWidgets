@@ -1,6 +1,6 @@
 {
-    "name": "Svelte Typescript Chrome Extension Boilerplate",
-    "description": "Boilerplate for Chrome Extension Svelte Typescript project",
+    "name": "NLExtendIt",
+    "description": "A Nairaland Extension that enhances the platform with Independent Widgets",
     "version": "1.0",
     "manifest_version": 3,
     "icons": {
