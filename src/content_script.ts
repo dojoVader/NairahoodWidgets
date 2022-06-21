@@ -1,2 +1,2 @@
-import type { IStorage } from "./types";
+// Content Script for Nairaland
 
